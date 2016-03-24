@@ -1,0 +1,9 @@
+D:\Projects\DirectoryTreePresenter\DirectoryTreePresenter\bin\Debug\DirectoryTreePresenter.exe.config
+D:\Projects\DirectoryTreePresenter\DirectoryTreePresenter\bin\Debug\DirectoryTreePresenter.exe
+D:\Projects\DirectoryTreePresenter\DirectoryTreePresenter\bin\Debug\DirectoryTreePresenter.pdb
+D:\Projects\DirectoryTreePresenter\DirectoryTreePresenter\obj\Debug\DirectoryTreePresenter.MainForm.resources
+D:\Projects\DirectoryTreePresenter\DirectoryTreePresenter\obj\Debug\DirectoryTreePresenter.Properties.Resources.resources
+D:\Projects\DirectoryTreePresenter\DirectoryTreePresenter\obj\Debug\DirectoryTreePresenter.csproj.GenerateResource.Cache
+D:\Projects\DirectoryTreePresenter\DirectoryTreePresenter\obj\Debug\DirectoryTreePresenter.exe
+D:\Projects\DirectoryTreePresenter\DirectoryTreePresenter\obj\Debug\DirectoryTreePresenter.pdb
+D:\Projects\DirectoryTreePresenter\DirectoryTreePresenter\obj\Debug\DirectoryTreePresenter.csprojResolveAssemblyReference.cache
